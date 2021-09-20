@@ -17,6 +17,7 @@ Access to database - Accessing a database is paramount in allowing for effective
 
 # Conceptual Design
 ![image](https://github.com/tun60968/IndividualProjectProposal/blob/master/BenjaminWestburg_CongressionalTextExtractionClassificationAndAnalysisUsingPythonsNLTKLibraryAndTwitterAPI_ProcessDiagram.JPG?raw=true)
+
 Featured above, the constructed diagram displays an overview of the processing of components within the proposed project. It should be noted, however, that a Twitter developer account will need to undergo the process of attaining access to the Twitter API - a task that I have already completed prior to the formation of this document.
 Given a team of four members, it would be advised to have the following arrangement of responsibilities:
 Person 1 - Accessing Twitter API through Python (https://github.com/twitterdev/search-tweets-python), Accessing tweets conducted by congressional members, extraction of tweets into well-documented format for text files (https://ucsd.libguides.com/congress_twitter/home)
